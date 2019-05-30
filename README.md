@@ -1,2 +1,2 @@
 # SAPUI5
-SAPUI5 WEB IDE Test
+This repositories is for sapui5 test
